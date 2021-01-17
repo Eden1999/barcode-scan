@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import WebcamComponent from './camera';
+import Test from './camera';
 
 function App() {
   return (
     <div className="App">
-      <WebcamComponent></WebcamComponent>
+      <Test></Test>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
